@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.64460fda.js",
+    "static/media/audio1.ogg": "/static/media/audio1.bb5349d08549bd99f89c.ogg",
+    "static/media/audio2.ogg": "/static/media/audio2.e30e791e57ceed1dd941.ogg",
+    "static/media/audio3.ogg": "/static/media/audio3.aa84d74ee7f42fd4b1c3.ogg",
+    "index.html": "/index.html",
+    "main.64460fda.js.map": "/static/js/main.64460fda.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.64460fda.js"
+  ]
+}
